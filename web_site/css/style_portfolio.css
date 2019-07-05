@@ -66,6 +66,13 @@ p.contents{
 		font-weight: normal;
 		text-align: left;
 		}
+
+p.contents_white{
+		font-size: 9pt;
+		color:white;
+		font-weight: normal;
+		text-align: left;
+		}
 		
 p.contents_titles{
 		line-height: 0px;
@@ -112,15 +119,18 @@ a.tutorials{
 		font-size: 12pt;
 		font-weight: bold;
 		color:#43a2ca;
-
-/*		line-height: 10px;
-		color:#fc811d;*/
 		font-family: 'Helvetica Header', 'Helvetica', 'Arial', sans-serif;
 		text-decoration:none;
-/*		font-size: 10pt;
+		}
+
+a.tutorials_white{
+		line-height: 3px;
+		text-align: left;
+		font-size: 12pt;
 		font-weight: bold;
-		color: #fc811d;
-		text-decoration:none;*/
+		color:white;
+		font-family: 'Helvetica Header', 'Helvetica', 'Arial', sans-serif;
+		text-decoration:none;
 		}
 
 header 	{
