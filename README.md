@@ -1,1 +1,2 @@
-# find my selected project at https://anp398.github.io/selected_projects/
+# Visit my website: 
+-  ** [selected project](https://anp398.github.io/selected_projects/) **
